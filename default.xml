@@ -7,12 +7,12 @@
            remote="origin"
            sync-j="4" />
 
-  <project path="manifest" name="FlymeOS/manifest" />
-  <project path="tutorials" name="FlymeOS/tutorials" />
-  <project path="plugins" name="FlymeOS/plugins" />
-  <project path="build" name="FlymeOS/build" />
-  <project path="tools" name="FlymeOS/tools" />
-  <project path="flyme/release" name="FlymeOS/flyme-release"/>
-  <project path="flyme/overlay" name="FlymeOS/flyme-overlay" />
-  <project path="devices/base" name="FlymeOS/devices-base" />
+  <project path="manifest" name="FlymeOS-bak/manifest" />
+  <project path="tutorials" name="FlymeOS-bak/tutorials" />
+  <project path="plugins" name="FlymeOS-bak/plugins" />
+  <project path="build" name="FlymeOS-bak/build" />
+  <project path="tools" name="FlymeOS-bak/tools" />
+  <project path="flyme/release" name="FlymeOS-bak/flyme-release"/>
+  <project path="flyme/overlay" name="FlymeOS-bak/flyme-overlay" />
+  <project path="devices/base" name="FlymeOS-bak/devices-base" />
 </manifest>
